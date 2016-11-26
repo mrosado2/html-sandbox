@@ -1,0 +1,31 @@
+/* media query  */
+@media only screen and (min-width: 900px) {
+	body {
+		background-color: yellow;
+	}
+}
+
+/* S & I */
+
+#page-title {
+	color: red;
+}
+
+h1 {
+	color: green;
+}
+
+/* ul list */
+section:hover {
+	text-decoration: underline;
+}
+
+section#list-section ul#my-list li {
+	background-color: lightblue !important;
+	color: greenyellow;
+}
+
+li.foo {
+	background-color: fuchsia !important;
+	color: white;
+}
