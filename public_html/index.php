@@ -2,11 +2,13 @@
 <html lsng="en">
 	<head>
 		<meta charset="UTF-8"/>
+
 		<!-- meta viewport tag -->
 		<meta name="viewport" content="width=device=width, initial-scale=1"/>
-		<link href
+
 		<!-- add CSS file -->
 		<link href="css/stylesheet.css" rel="stylesheet" type="text/css" />
+
 		<title>HTML Sandbox</title>
 	</head>
 	<body>
@@ -17,6 +19,7 @@
 		<!-- this is the main page content -->
 		<main>
 			<div>This is not in a section tag.</div>
+
 			<!-- begin section 1 -->
 			<section class="text-red">
 				<div>This is in a section tag.</div>
@@ -61,5 +64,5 @@
 				<p>This is some text...</p>
 			</div>
 		</main>
-		</body>
+	</body>
 </html>
